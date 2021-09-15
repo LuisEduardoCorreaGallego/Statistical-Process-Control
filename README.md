@@ -1,1 +1,1 @@
-# Statistical-Process-Control
+# Statistical Process Control
